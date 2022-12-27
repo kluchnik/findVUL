@@ -1,0 +1,5 @@
+{
+  "input_target": "reports/debian_VUL",
+  "input_sca6": "reports/debian_sca6",
+  "output": "reports/debian_VUL_SCA6"
+}

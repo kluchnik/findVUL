@@ -1,0 +1,24 @@
+{
+  "target":
+  {
+    "distr": "debian",
+    "release": "buster",
+    "new_release": "bullseye"
+  },
+  "input_type": "ssh",
+  "input":
+  {
+    "ssh":
+    {
+      "ip": "10.0.5.250",
+      "port": "2201",
+      "username": "root",
+      "password": "seclab"
+    },
+    "file": "None"
+  },
+  "output":
+  {
+    "db": "reports/debian"
+  }
+}
